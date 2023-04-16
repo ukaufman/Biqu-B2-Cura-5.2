@@ -5,11 +5,7 @@ Since BigTree Tech does not actively support newer Cura releases for their 3D pr
 
 The main things that I had to change have to do with the syntax differences from PyQt5 to PyQt6, in which the Cura 5.x interface is built.
 
-## Testing PC specs
-- Lenovo Thinkpad E495.
-- Ryzen 7 3700U CPU.
-- 32 GB of RAM.
-- 256 GB main NVMe SSD.
+## Tested with
 - Windows 11 22H2.
 - Bigtree Tech. Biqu B2 3D Printer.
 
